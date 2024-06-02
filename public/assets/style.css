@@ -1,15 +1,10 @@
-/*
- * Globals
- */
 
-/* Links */
 a,
 a:focus,
 a:hover {
     color: #fff;
 }
 
-/* Custom default button */
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
@@ -19,15 +14,9 @@ a:hover {
     border: .05rem solid #fff;
 }
 
-
-/*
- * Base structure
- */
-
 html,
 body {
     height: 100%;
-    background: #333 url(background.jpg);
     background-size: cover;
 }
 
@@ -48,9 +37,6 @@ body {
 }
 
 
-/*
- * Header
- */
 .masthead {
     margin-bottom: 2rem;
 }
@@ -63,7 +49,7 @@ body {
     padding: 0;
     height: 25px;
     text-indent: -9999px;
-    background: transparent url(site-logo.svg) no-repeat center top;
+    background: transparent no-repeat center top;
     background-size: 640px 25px;
 }
 
@@ -99,9 +85,7 @@ body {
 }
 
 
-/*
- * Cover
- */
+
 .cover {
     padding: 0 1.5rem;
     background: rgba(51, 51, 51, 0.8);
@@ -112,9 +96,7 @@ body {
 }
 
 
-/*
- * Footer
- */
+
 .mastfoot {
     color: rgba(255, 255, 255, .5);
 }

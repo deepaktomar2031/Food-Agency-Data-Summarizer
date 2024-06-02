@@ -1,7 +1,7 @@
 const express = require('express');
 
 module.exports = (ratingController) => {
-    const DEFAULT_PORT = 8080;
+    const DEFAULT_PORT = 8000;
     const app = express();
     init();
 

@@ -1,7 +1,7 @@
 {
-  "name": "fsa-ratings",
-  "version": "0.1.0",
-  "description": "FSA Ratings app for Infinity Works tech test",
+  "name": "food-agency-data-summarizer",
+  "version": "2.0.1",
+  "description": "",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
@@ -9,14 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/infinityworks/iw-tech-test-nodejs.git"
+    "url": "https://github.com/deepaktomar2031/Food-Agency-Data-Summarizer.git"
   },
-  "author": "Infinity Works Consulting",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/infinityworks/iw-tech-test-nodejs/issues"
-  },
-  "homepage": "https://github.com/infinityworks/iw-tech-test-nodejs#readme",
+  "homepage": "https://github.com/deepaktomar2031/Food-Agency-Data-Summarizer#readme",
   "dependencies": {
     "express": "^4.16.4",
     "node-fetch": "^2.6.0"
