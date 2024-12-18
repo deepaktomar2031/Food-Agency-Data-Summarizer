@@ -15,7 +15,7 @@
   "license": "ISC",
   "homepage": "https://github.com/deepaktomar2031/Food-Agency-Data-Summarizer#readme",
   "dependencies": {
-    "express": "^4.21.1",
+    "express": "^4.21.2",
     "node-fetch": "^2.7.0"
   }
 }
